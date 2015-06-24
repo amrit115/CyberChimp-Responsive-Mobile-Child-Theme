@@ -32,6 +32,11 @@ function mytheme_require_plugins() {
 						'slug' => 'tweet-old-post',
 						'required' => false,
 						),
+						array(
+						'name' => 'Scrollup',
+						'slug' => 'scrollup-master',
+						'required' => false,
+						),
 						
      );
  $config = array(
