@@ -10,3 +10,12 @@ License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Template:  responsive-mobile
 */
+#main-menu-container {
+    background-color: #F68220;
+}
+a{
+color: #F68220;
+}
+a:hover,a:focus{
+color: #F68220;
+}
