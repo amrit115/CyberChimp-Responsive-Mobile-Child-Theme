@@ -19,3 +19,10 @@ color: #F68220;
 a:hover,a:focus{
 color: #F68220;
 }
+front-page .content-area {
+    background: gray none repeat scroll 0 0;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
